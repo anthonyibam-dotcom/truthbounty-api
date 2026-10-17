@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-656-prewave-be-058-verify-inbound-webhook",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-656-prewave-be-058-verify-inbound-webhook": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-656-prewave-be-058-verify-inbound-webhook",
+    "origin"
+  ]
+}
